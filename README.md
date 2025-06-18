@@ -1,4 +1,4 @@
-# Restaurant-E-Commerce-Website
+# Restaurant-Website
 
 Description: An e-commerce platform for a restaurant, featuring product listings, user authentication, and an admin panel.
 Key Features: Product filtering, image uploads, and mobile-responsive design.
